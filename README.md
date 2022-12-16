@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD033 -->
 ## So what is this?
 
-I have created several extensions for the popular code editor Visiual Studio Code. Particularly, extensions which work on web environments such as github.dev and vscode.dev. I would like to share them all, but I don't have enough pins on my profile page :D. So, I have listed them all here.
+I have created [several extensions](https://marketplace.visualstudio.com/publishers/AdamRaichu) for the popular code editor Visiual Studio Code. Particularly, extensions which work on web environments such as github.dev and vscode.dev. I would like to share them all, but I don't have enough pins on my profile page :D. So, I have listed them all here.
 
 ## Extensions
 
