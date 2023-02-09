@@ -16,7 +16,7 @@ The extensions I am most proud of are for viewing binary files. By far the most 
 
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/AdamRaichu/vscode-zip-viewer/main/logo-icons.png" width="60px" height="60px">][zip-viewer]
+[<img src="https://raw.githubusercontent.com/AdamRaichu/vscode-zip-viewer/main/logo.png" width="60px" height="60px">][zip-viewer]
 
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/adamraichu.zip-viewer?color=00008b&logo=visual%20studio%20code&logoColor=007acc)][zip-viewer]
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/adamraichu.zip-viewer?color=00008b&label=Install%20Count&logo=visual%20studio%20code&logoColor=007acc)][zip-viewer]
