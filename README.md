@@ -96,6 +96,8 @@ This extension uses the npm package [`docx-preview`](https://www.npmjs.com/packa
 
 Font Preview, based on the Windows Font Viewer, shows a preview of what a font file looks like so you don't have to download and install it to check.
 
+---
+
 ### Other Extensions
 
 While most of my extensions are for dealing with binary files, here are the ones that are for other purposes.
