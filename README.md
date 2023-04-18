@@ -104,6 +104,8 @@ While most of my extensions are for dealing with binary files, here are the ones
 
 #### [Minecraft `.lang` Colorizer ![Development Status: Passive][status-passive]][lang-colorizer]
 
+This extension provides a grammar for `.lang` files to make them more readable.
+
 <div align="center">
 
 [<img src="https://raw.githubusercontent.com/AdamRaichu/vscode-minecraft-lang/main/logo.png" width="60px" height="60px">][lang-colorizer]
@@ -119,7 +121,26 @@ While most of my extensions are for dealing with binary files, here are the ones
 
 </div>
 
-This extension provides a grammar for `.lang` files to make them more readable.
+---
+
+#### [Minecraft options.txt ![Development Status: Active][status-active]][options.txt]
+
+This extension provides a grammar for Minecraft's configuration files to make them more readable. It also provider hover information detailing what each option does.
+
+<div align="center">
+
+[<img src="https://raw.githubusercontent.com/AdamRaichu/vscode-mc-options.txt/main/logo.png" width="60px" height="60px">][options.txt]
+
+![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/AdamRaichu.mc-options-txt?color=darkblue&logo=visual%20studio%20code&logoColor=007acc)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/adamraichu.mc-options-txt?color=darkblue&logo=visual%20studio%20code&logoColor=007acc)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/adamraichu.mc-options-txt?color=darkblue&label=Install%20Count&logo=visual%20studio%20code&logoColor=007acc)
+![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/adamraichu.mc-options-txt?color=darkblue&label=Rating&logo=visual%20studio%20code&logoColor=007acc)
+
+[![GitHub issues](https://img.shields.io/github/issues/AdamRaichu/vscode-mc-options.txt)](https://github.com/AdamRaichu/vscode-mc-options.txt/issues)
+[![GitHub stars](https://img.shields.io/github/stars/AdamRaichu/vscode-mc-options.txt)](https://github.com/AdamRaichu/vscode-mc-options.txt/stargazers)
+[![GitHub license](https://img.shields.io/github/license/AdamRaichu/vscode-mc-options.txt)](https://github.com/AdamRaichu/vscode-mc-options.txt/blob/main/LICENSE)
+
+</div>
 
 [zip-viewer]: https://marketplace.visualstudio.com/items?itemName=AdamRaichu.zip-viewer
 [zip-viewer-ratings]: https://marketplace.visualstudio.com/items?itemName=AdamRaichu.zip-viewer&ssr=false#review-details
@@ -129,3 +150,4 @@ This extension provides a grammar for `.lang` files to make them more readable.
 [lang-colorizer]: https://marketplace.visualstudio.com/items?itemName=AdamRaichu.minecraft-lang
 [status-active]: https://img.shields.io/badge/Development%20Status-Active-green
 [status-passive]: https://img.shields.io/badge/Development%20Status-Passive-yellow
+[options.txt]: https://marketplace.visualstudio.com/items?itemName=AdamRaichu.mc-options-txt
